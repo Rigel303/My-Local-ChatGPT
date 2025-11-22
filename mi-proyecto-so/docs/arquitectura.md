@@ -72,6 +72,7 @@ OLLAMA --> VOL : Lectura/Escritura modelos
 
 **Copia todo el contenido y pégalo en Draw.io → File → Import from… → Clipboard.**
 
+```html
 
 <mxfile host="app.diagrams.net" modified="2025-02-20T10:00:00.000Z" agent="5.0 (ChatGPT)" version="20.8.3" editor="diagramly" type="device">
   <diagram id="diagram1" name="Arquitectura">
@@ -122,6 +123,8 @@ OLLAMA --> VOL : Lectura/Escritura modelos
     </mxGraphModel>
   </diagram>
 </mxfile>
+```
+
 
 
 
