@@ -1,4 +1,4 @@
-## Versión en Mermaid
+## Versión en Mermaid ##
 
 
 flowchart LR
@@ -120,6 +120,7 @@ OLLAMA --> VOL : Lectura/Escritura modelos
     </mxGraphModel>
   </diagram>
 </mxfile>
+
 
 
 
