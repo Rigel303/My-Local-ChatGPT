@@ -1,6 +1,7 @@
 ## Versión en Mermaid ##
 
-<
+
+/*
 flowchart LR
     subgraph Host ["Host / Sistema Operativo"]
         subgraph Docker
@@ -18,8 +19,8 @@ flowchart LR
     end
 
     WebUI <---> Ollama
-    Ollama --- VolumeData 
->
+    Ollama --- VolumeData
+*/
 
 ---
 
@@ -121,6 +122,7 @@ OLLAMA --> VOL : Lectura/Escritura modelos
     </mxGraphModel>
   </diagram>
 </mxfile>
+
 
 
 
