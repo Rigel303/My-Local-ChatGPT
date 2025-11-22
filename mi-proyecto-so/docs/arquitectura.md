@@ -26,7 +26,7 @@ flowchart LR
 
 ## Versión ASCII
 
-
+```sql
 +-------------------------------------------------------------+
 |                  Host / Sistema Operativo                   |
 |                                                             |
@@ -46,11 +46,11 @@ flowchart LR
 |   +-----------------------------------------------------+   |
 |                                                             |
 +-------------------------------------------------------------+
-
+```
 ---
 
 ## Versión para herramientas UML
-
+```plantuml
 @startuml
 
 node "Host / Sistema Operativo" {
@@ -65,7 +65,7 @@ WEBUI --> OLLAMA : HTTP Request\n(LLM API)
 OLLAMA --> VOL : Lectura/Escritura modelos
 
 @enduml
-
+```
 ---
 
 ## Arquitectura del proyecto para Draw.io
@@ -122,6 +122,7 @@ OLLAMA --> VOL : Lectura/Escritura modelos
     </mxGraphModel>
   </diagram>
 </mxfile>
+
 
 
 
