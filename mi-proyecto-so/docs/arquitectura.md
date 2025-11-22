@@ -1,5 +1,6 @@
 ## Versión en Mermaid
 
+
 flowchart LR
     subgraph Host ["Host / Sistema Operativo"]
         subgraph Docker
@@ -119,6 +120,7 @@ OLLAMA --> VOL : Lectura/Escritura modelos
     </mxGraphModel>
   </diagram>
 </mxfile>
+
 
 
 
