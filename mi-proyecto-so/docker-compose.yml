@@ -1,0 +1,38 @@
+version: "3.9"
+
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama-data:/root/.ollama
+    networks:
+      - chatnet
+    deploy:
+      resources:
+        limits:
+          memory: 2g
+    environment:
+      - OLLAMA_HOST=0.0.0.0
+      - OLLAMA_MODELS=/root/.ollama/models
+
+  webui:
+    image: ghcr.io/open-webui/open-webui:latest
+    container_name: webui
+    depends_on:
+      - ollama
+    ports:
+      - "3000:8080"
+    networks:
+      - chatnet
+    environment:
+      - OLLAMA_API=http://ollama:11434
+
+networks:
+  chatnet:
+
+volumes:
+  ollama-data:
+  webui-data:
