@@ -58,7 +58,7 @@ docker run --rm --gpus all nvidia/cuda:12.3.2-base-ubuntu22.04 nvidia-smi
 
 1. Clonar o descargar el proyecto
 
-git clone <[(https://github.com/Rigel303/My-Local-ChatGPT/tree/febe22e33baf4b83c9fac3571cc7a9bba225571a)]>
+git clone <[https://github.com/Rigel303/My-Local-ChatGPT/tree/febe22e33baf4b83c9fac3571cc7a9bba225571a]>
 cd mi-proyecto-so
 
 2. Asegurar permisos de scripts
