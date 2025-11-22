@@ -1,0 +1,6 @@
+service:
+  name: MyLocalChatGPT
+  version: 1.0
+settings:
+  gpu: auto
+  max_memory: 2G
