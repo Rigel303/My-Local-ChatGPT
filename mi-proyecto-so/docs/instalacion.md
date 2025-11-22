@@ -2,7 +2,7 @@
 
 1. Clonar o descargar el proyecto
 
-git clone <url-del-repo>
+git clone <https://github.com/Rigel303/My-Local-ChatGPT/tree/febe22e33baf4b83c9fac3571cc7a9bba225571a> /n
 cd mi-proyecto-so
 
 2. Asegurar permisos de scripts
@@ -24,3 +24,4 @@ Abrir en el navegador:
 docker exec -it ollama ollama pull phi3
 
 o también puede descargar un modelo desde WebUI → Model Manager.
+
