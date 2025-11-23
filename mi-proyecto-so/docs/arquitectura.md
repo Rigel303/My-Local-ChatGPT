@@ -70,7 +70,7 @@ OLLAMA --> VOL : Lectura/Escritura modelos
 
 ## Arquitectura del proyecto para Draw.io
 
-**Copia todo el contenido y pégalo en Draw.io → File → Import from… → Clipboard.**
+**Copia todo el contenido y pégalo en Draw.io → Extras → Edit Diagram**
 
 ```html
 
@@ -124,6 +124,7 @@ OLLAMA --> VOL : Lectura/Escritura modelos
   </diagram>
 </mxfile>
 ```
+
 
 
 
