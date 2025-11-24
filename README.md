@@ -217,16 +217,16 @@ http://localhost:3000/
 
 
 ## Screenshots o GIFs del proyecto funcionando
-![alt text](image.png)
 
 
-![alt text](image-1.png)
 
+![alt text](https://github.com/Rigel303/My-Local-ChatGPT/blob/bb5b5455ea4e2c0083430ef10850a7743960306f/mi-proyecto-so/demo/screenshot1a.jpeg)
 
-![alt text](image-2.png)
+![alt text](https://github.com/Rigel303/My-Local-ChatGPT/blob/bb5b5455ea4e2c0083430ef10850a7743960306f/mi-proyecto-so/demo/screenshot1b.jpeg)
 
+![alt text](https://github.com/Rigel303/My-Local-ChatGPT/blob/bb5b5455ea4e2c0083430ef10850a7743960306f/mi-proyecto-so/demo/screenshot1c.jpeg)
 
-![alt text](image-3.png)
+![alt text](https://github.com/Rigel303/My-Local-ChatGPT/blob/bb5b5455ea4e2c0083430ef10850a7743960306f/mi-proyecto-so/demo/screenshot1d.jpeg)
 
 
 ## Créditos y recursos utilizados
