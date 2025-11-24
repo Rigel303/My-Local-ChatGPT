@@ -113,6 +113,7 @@ El archivo aparecerá en:
 ## 🖼 Evidencia del proyecto funcionando
 
 ![image demo](https://github.com/Rigel303/My-Local-ChatGPT/blob/f3c64c4bac423b165f451e23c638d181f3da435a/mi-proyecto-so/demo/screenshot1.jpeg)
+![video demo]()
 
 
 ---
@@ -144,5 +145,6 @@ Ubuntu + CUDA (opcional para GPU)
 
 Proyecto creado por Samuel Yubert, Gabriela Paco y Christ Salva
 Curso: Sistemas Operativos
+
 
 
