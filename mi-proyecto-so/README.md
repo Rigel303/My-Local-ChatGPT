@@ -121,7 +121,7 @@ El archivo aparecerá en:
 
 ![alt text](https://github.com/Rigel303/My-Local-ChatGPT/blob/bb5b5455ea4e2c0083430ef10850a7743960306f/mi-proyecto-so/demo/screenshot1d.jpeg)
 
-[![Watch the video](https://github.com/Rigel303/My-Local-ChatGPT/blob/eb399eb2e0864b17eae6f8bc1e589a53e3b5f754/mi-proyecto-so/demo/video-demo.mp4)](https://github.com/Rigel303/My-Local-ChatGPT/blob/eb399eb2e0864b17eae6f8bc1e589a53e3b5f754/mi-proyecto-so/demo/video-demo.mp4)
+[![Watch the video](https://github.com/Rigel303/My-Local-ChatGPT/blob/dcd8454ab0f30770eb799fff2f44d1b39f8029ca/mi-proyecto-so/demo/alt_video_image.png)](https://github.com/Rigel303/My-Local-ChatGPT/blob/eb399eb2e0864b17eae6f8bc1e589a53e3b5f754/mi-proyecto-so/demo/video-demo.mp4)
 
 
 ---
@@ -153,6 +153,7 @@ Ubuntu + CUDA (opcional para GPU)
 
 Proyecto creado por Samuel Yubert, Gabriela Paco y Christ Salva
 Curso: Sistemas Operativos
+
 
 
 
