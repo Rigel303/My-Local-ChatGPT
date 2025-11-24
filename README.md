@@ -6,6 +6,11 @@
 
 
 ---
+## Nueva versión disponible
+[![preview](https://github.com/Rigel303/My-Local-ChatGPT/blob/e75e0d0dcb819048c3110fabaf56df3320ba256d/mi-proyecto-so/demo/embed.png)
+
+[link to new repository](https://github.com/23101298-lab/mi-proyecto-so.git)
+---
 ##  Descripción del Proyecto
 
 Este proyecto implementa una versión *local y gratuita de ChatGPT*, utilizando contenedores Docker y aceleración GPU NVIDIA.  
