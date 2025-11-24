@@ -242,4 +242,4 @@ http://localhost:3000/
 ## Nueva versión disponible
 [![Watch the video](https://github.com/Rigel303/My-Local-ChatGPT/blob/dcd8454ab0f30770eb799fff2f44d1b39f8029ca/mi-proyecto-so/demo/alt_video_image.png)](https://github.com/Rigel303/My-Local-ChatGPT/blob/eb399eb2e0864b17eae6f8bc1e589a53e3b5f754/mi-proyecto-so/demo/video-demo.mp4)
 
-[link to new][(https://github.com/23101298-lab/mi-proyecto-so.git)]
+[link to new](https://github.com/23101298-lab/mi-proyecto-so.git)
