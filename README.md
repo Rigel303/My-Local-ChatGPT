@@ -241,4 +241,4 @@ http://localhost:3000/
 
 ## Nueva versión disponible
 
-![link to new](https://github.com/23101298-lab/mi-proyecto-so.git)
+![link to new][(https://github.com/Rigel303/My-Local-ChatGPT/blob/5db3776f28f100846db56c56e77cb18ac2dcbe20/mi-proyecto-so/demo/embed.png)](https://github.com/23101298-lab/mi-proyecto-so.git)
