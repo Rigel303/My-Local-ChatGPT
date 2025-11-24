@@ -240,5 +240,6 @@ http://localhost:3000/
 *Visual Studio Code* | Editor de código con vista previa Markdown | https://code.visualstudio.com |
 
 ## Nueva versión disponible
+[![Watch the video](https://github.com/Rigel303/My-Local-ChatGPT/blob/dcd8454ab0f30770eb799fff2f44d1b39f8029ca/mi-proyecto-so/demo/alt_video_image.png)](https://github.com/Rigel303/My-Local-ChatGPT/blob/eb399eb2e0864b17eae6f8bc1e589a53e3b5f754/mi-proyecto-so/demo/video-demo.mp4)
 
-![link to new][(https://github.com/Rigel303/My-Local-ChatGPT/blob/5db3776f28f100846db56c56e77cb18ac2dcbe20/mi-proyecto-so/demo/embed.png)](https://github.com/23101298-lab/mi-proyecto-so.git)
+[link to new][(https://github.com/23101298-lab/mi-proyecto-so.git)]
