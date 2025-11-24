@@ -238,3 +238,7 @@ http://localhost:3000/
 *Phi-3 Mini (Microsoft)* | Modelo de lenguaje liviano (3.8B) | https://huggingface.co/microsoft/phi-3-mini |
 *Docker + NVIDIA Toolkit* | Contenedores con GPU | https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/ |
 *Visual Studio Code* | Editor de código con vista previa Markdown | https://code.visualstudio.com |
+
+## Nueva versión disponible
+
+![link to new](https://github.com/23101298-lab/mi-proyecto-so.git)
