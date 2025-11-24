@@ -112,7 +112,15 @@ El archivo aparecerá en:
 
 ## 🖼 Evidencia del proyecto funcionando
 
-![image demo](https://github.com/Rigel303/My-Local-ChatGPT/blob/f3c64c4bac423b165f451e23c638d181f3da435a/mi-proyecto-so/demo/screenshot1.jpeg)
+
+![alt text](https://github.com/Rigel303/My-Local-ChatGPT/blob/bb5b5455ea4e2c0083430ef10850a7743960306f/mi-proyecto-so/demo/screenshot1a.jpeg)
+
+![alt text](https://github.com/Rigel303/My-Local-ChatGPT/blob/bb5b5455ea4e2c0083430ef10850a7743960306f/mi-proyecto-so/demo/screenshot1b.jpeg)
+
+![alt text](https://github.com/Rigel303/My-Local-ChatGPT/blob/bb5b5455ea4e2c0083430ef10850a7743960306f/mi-proyecto-so/demo/screenshot1c.jpeg)
+
+![alt text](https://github.com/Rigel303/My-Local-ChatGPT/blob/bb5b5455ea4e2c0083430ef10850a7743960306f/mi-proyecto-so/demo/screenshot1d.jpeg)
+
 [![video demo](https://github.com/Rigel303/My-Local-ChatGPT/blob/eb399eb2e0864b17eae6f8bc1e589a53e3b5f754/mi-proyecto-so/demo/video-demo.mp4)](https://github.com/Rigel303/My-Local-ChatGPT/blob/eb399eb2e0864b17eae6f8bc1e589a53e3b5f754/mi-proyecto-so/demo/video-demo.mp4)
 
 
@@ -145,6 +153,7 @@ Ubuntu + CUDA (opcional para GPU)
 
 Proyecto creado por Samuel Yubert, Gabriela Paco y Christ Salva
 Curso: Sistemas Operativos
+
 
 
 
