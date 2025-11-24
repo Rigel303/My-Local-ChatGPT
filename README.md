@@ -1,5 +1,5 @@
 # Mi Propio ChatGPT Local
-*Autores:* Yubert Diaz Leon  
+*Autores:* Yubert Diaz Leon, Christ Salva y Gabriela Paco  
 *Curso:* Sistemas Operativos (Ciclo 2025-2)  
 *Institución:* ESAN Universidad  
 *Fecha:* 24-11-2025  
