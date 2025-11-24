@@ -123,7 +123,7 @@ El archivo aparecerá en:
 
 ### Demo Video (Short Version)
 
-[![Watch the video](https://github.com/Rigel303/My-Local-ChatGPT/blob/dcd8454ab0f30770eb799fff2f44d1b39f8029ca/mi-proyecto-so/demo/alt_video_image.png)](https://github.com/Rigel303/My-Local-ChatGPT/blob/eb399eb2e0864b17eae6f8bc1e589a53e3b5f754/mi-proyecto-so/demo/video-demo.mp4)
+[Watch the video](https://drive.google.com/drive/folders/1OOLr7g_WEz-XXUk83W8eAwsRszEyqmv8?usp=sharing)
 
 
 ---
@@ -165,6 +165,7 @@ En conjunto, este proyecto mostró cómo los conceptos teóricos del curso se ap
 
 Proyecto creado por Samuel Yubert, Gabriela Paco y Christ Salva
 Curso: Sistemas Operativos
+
 
 
 
