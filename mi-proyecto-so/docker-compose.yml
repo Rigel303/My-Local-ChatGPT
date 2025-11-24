@@ -8,6 +8,8 @@ services:
       - "11434:11434"
     volumes:
       - ollama-data:/root/.ollama
+    environment:
+    - OLLAMA_NO_GPU=1     # <<< desactiva GPU
     networks:
       - chatnet
     deploy:
@@ -36,3 +38,4 @@ networks:
 volumes:
   ollama-data:
   webui-data:
+
